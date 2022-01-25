@@ -1,0 +1,4 @@
+﻿Сборка начата…
+1>------ Сборка начата: проект: Zubkova2, Конфигурация: Debug Any CPU ------
+1>Zubkova2 -> C:\Users\moroz\OneDrive\Документы\source\repos\Zubkova2\Zubkova2\bin\Debug\net48\Zubkova2.exe
+========== Сборка: успешно: 1, с ошибками: 0, без изменений: 0, пропущено: 0 ==========
